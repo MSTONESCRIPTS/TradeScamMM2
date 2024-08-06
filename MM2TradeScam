@@ -49,7 +49,7 @@ Tab:AddTextbox({
 
 OrionLib:MakeNotification({
 	Name = "WARNING!!!!!",
-	Content = "YOU SHOULD EAIT 5-10MIN TO THE SCRIPT WORK",
+	Content = "YOU SHOULD WAIT 5-10MIN TO THE SCRIPT WORK",
 	Image = "rbxassetid://4483345998",
 	Time = 99999999999999
 })
